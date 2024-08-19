@@ -1,0 +1,86 @@
+[
+    {
+        "player_name": "Lionel Messi",
+        "age": 36,
+        "country": "Argentina",
+        "club": "Inter Miami",
+        "profile_picture": null,
+        "appearances": 778,
+        "goals": 672,
+        "assists": 250,
+        "yellow_cards": 85,
+        "red_cards": 3
+    },
+    {
+        "player_name": "Cristiano Ronaldo",
+        "age": 39,
+        "country": "Portugal",
+        "club": "Al Nassr",
+        "profile_picture": null,
+        "appearances": 925,
+        "goals": 701,
+        "assists": 220,
+        "yellow_cards": 100,
+        "red_cards": 4
+    },
+    {
+        "player_name": "Kylian Mbappe",
+        "age": 25,
+        "country": "France",
+        "club": "Paris Saint-Germain",
+        "profile_picture": null,
+        "appearances": 238,
+        "goals": 142,
+        "assists": 60,
+        "yellow_cards": 20,
+        "red_cards": 1
+    },
+    {
+        "player_name": "Neymar Jr",
+        "age": 32,
+        "country": "Brazil",
+        "club": "Al Hilal",
+        "profile_picture": null,
+        "appearances": 308,
+        "goals": 168,
+        "assists": 90,
+        "yellow_cards": 40,
+        "red_cards": 2
+    },
+    {
+        "player_name": "Kevin De Bruyne",
+        "age": 33,
+        "country": "Belgium",
+        "club": "Manchester City",
+        "profile_picture": null,
+        "appearances": 300,
+        "goals": 60,
+        "assists": 100,
+        "yellow_cards": 30,
+        "red_cards": 0
+    },
+    {
+        "player_name": "Robert Lewandowski",
+        "age": 35,
+        "country": "Poland",
+        "club": "Barcelona",
+        "profile_picture": null,
+        "appearances": 405,
+        "goals": 311,
+        "assists": 50,
+        "yellow_cards": 20,
+        "red_cards": 1
+    },
+    {
+        "player_name": "Mohamed Salah",
+        "age": 32,
+        "country": "Egypt",
+        "club": "Liverpool FC",
+        "profile_picture": null,
+        "appearances": 240,
+        "goals": 135,
+        "assists": 70,
+        "yellow_cards": 25,
+        "red_cards": 1
+    }
+]
